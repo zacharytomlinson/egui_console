@@ -17,8 +17,7 @@ categories=["gui"]
 
 [dependencies]
 
-eframe = "0.28.1"
-egui = "0.28.1"
+egui = "0.32.3"
 itertools = "0.13.0"
 
 serde = "1.0.204"
