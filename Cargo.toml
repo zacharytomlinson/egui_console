@@ -17,7 +17,7 @@ categories=["gui"]
 
 [dependencies]
 
-egui = "0.32.3"
+egui = "0.33.2"
 itertools = "0.13.0"
 
 serde = "1.0.204"
